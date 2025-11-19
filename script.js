@@ -15,15 +15,20 @@ function division (numero1, numero2){
 }
 
 //Prueba
+console.log("Prueba de suma");
 console.log(suma(5,5));
+console.log("Prueba de resta");
 console.log(resta(5,5));
+console.log("Prueba de multiplicación");
 console.log(multiplicacion(5,5));
+console.log("Prueba de división");
 console.log(division(5,5));
 
 //Simulación
 let numero1 = "10";
 let numero2 = "20";
 
+console.log("Simulación con números declarados");
 console.log(suma(numero1, numero2));
 console.log(division(numero1, numero2));
 
