@@ -27,3 +27,7 @@ function division (numero1, numero2){
 
 //console.log(suma(numero1, numero2));
 //console.log(division(numero1, numero2));
+
+alert("Bienvenido a la Calculadora en línea");
+let numero1 = prompt("Ingrese el primer número: ");
+let numero2 = prompt("ingrese el segundo número: ");
